@@ -1,5 +1,5 @@
 {
-  "name": "ci-cd-example",
+  "name": "@bhastings/ci-cd-example",
   "version": "1.0.0",
   "description": "Example repository to experiment with CI-CD tooling.",
   "main": "index.js",
